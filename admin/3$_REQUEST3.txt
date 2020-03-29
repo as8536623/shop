@@ -1,0 +1,18 @@
+array (
+  'ECS_LastCheckOrder' => 'Sat, 06 May 2017 03:21:11 GMT',
+  'ECSCP' => 
+  array (
+    'lastfilterfile' => 'F5299398',
+    'lastfilter' => 'a%3A37%3A%7Bs%3A8%3A%22order_sn%22%3Bs%3A0%3A%22%22%3Bs%3A9%3A%22consignee%22%3Bs%3A0%3A%22%22%3Bs%3A5%3A%22email%22%3Bs%3A0%3A%22%22%3Bs%3A7%3A%22address%22%3Bs%3A0%3A%22%22%3Bs%3A7%3A%22zipcode%22%3Bs%3A0%3A%22%22%3Bs%3A3%3A%22tel%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22mobile%22%3Bi%3A0%3Bs%3A7%3A%22country%22%3Bi%3A0%3Bs%3A8%3A%22province%22%3Bi%3A0%3Bs%3A4%3A%22city%22%3Bi%3A0%3Bs%3A8%3A%22district%22%3Bi%3A0%3Bs%3A11%3A%22shipping_id%22%3Bi%3A0%3Bs%3A6%3A%22pay_id%22%3Bi%3A0%3Bs%3A12%3A%22order_status%22%3Bi%3A-1%3Bs%3A15%3A%22shipping_status%22%3Bi%3A-1%3Bs%3A10%3A%22pay_status%22%3Bi%3A-1%3Bs%3A7%3A%22user_id%22%3Bi%3A0%3Bs%3A9%3A%22user_name%22%3Bs%3A0%3A%22%22%3Bs%3A16%3A%22composite_status%22%3Bi%3A-1%3Bs%3A12%3A%22group_buy_id%22%3Bi%3A0%3Bs%3A11%3A%22pre_sale_id%22%3Bi%3A0%3Bs%3A7%3A%22sort_by%22%3Bs%3A8%3A%22add_time%22%3Bs%3A10%3A%22sort_order%22%3Bs%3A4%3A%22DESC%22%3Bs%3A10%3A%22start_time%22%3Bs%3A0%3A%22%22%3Bs%3A8%3A%22end_time%22%3Bs%3A0%3A%22%22%3Bs%3A10%3A%22order_type%22%3Bi%3A0%3Bs%3A4%3A%22supp%22%3Bi%3A0%3Bs%3A6%3A%22suppid%22%3Bi%3A0%3Bs%3A10%3A%22inv_status%22%3Bs%3A0%3A%22%22%3Bs%3A8%3A%22inv_type%22%3Bs%3A0%3A%22%22%3Bs%3A22%3A%22vat_inv_consignee_name%22%3Bs%3A0%3A%22%22%3Bs%3A23%3A%22vat_inv_consignee_phone%22%3Bs%3A0%3A%22%22%3Bs%3A8%3A%22add_time%22%3Bs%3A0%3A%22%22%3Bs%3A4%3A%22page%22%3Bi%3A1%3Bs%3A9%3A%22page_size%22%3Bi%3A15%3Bs%3A12%3A%22record_count%22%3Bs%3A2%3A%2210%22%3Bs%3A10%3A%22page_count%22%3Bd%3A1%3B%7D',
+    'lastfiltersql' => 'U0VMRUNUIG8ub3JkZXJfaWQsIG8ub3JkZXJfc24sIG8uYWRkX3RpbWUsIG8ub3JkZXJfc3RhdHVzLCBvLnNoaXBwaW5nX3N0YXR1cywgby5vcmRlcl9hbW91bnQsIG8ubW9uZXlfcGFpZCxvLnBheV9zdGF0dXMsIG8uY29uc2lnbmVlLCBvLmFkZHJlc3MsIG8uZW1haWwsIG8udGVsLCBvLmV4dGVuc2lvbl9jb2RlLCBvLmV4dGVuc2lvbl9pZCwgKCAgIG8uZ29vZHNfYW1vdW50ICsgby50YXggKyBvLnNoaXBwaW5nX2ZlZSArIG8uaW5zdXJlX2ZlZSArIG8ucGF5X2ZlZSArIG8ucGFja19mZWUgKyBvLmNhcmRfZmVlICkgQVMgdG90YWxfZmVlLCBJRk5VTEwodS51c2VyX25hbWUsICfljL/lkI3nlKjmiLcnKSBBUyBidXllciwgby5mcm9tcyAsIGlzX3BpY2t1cCAsby5tb2JpbGUsby5pbnZfcGF5ZWUsby5pbnZfY29udGVudCxvLmludl90eXBlLG8udmF0X2ludl9jb21wYW55X25hbWUsby52YXRfaW52X3RheHBheWVyX2lkLG8udmF0X2ludl9yZWdpc3RyYXRpb25fYWRkcmVzcyxvLnZhdF9pbnZfcmVnaXN0cmF0aW9uX3Bob25lLG8udmF0X2ludl9kZXBvc2l0X2Jhbmssby52YXRfaW52X2JhbmtfYWNjb3VudCxvLmludl9jb25zaWduZWVfbmFtZSxvLmludl9jb25zaWduZWVfcGhvbmUsby5pbnZfY29uc2lnbmVlX2NvdW50cnksby5pbnZfY29uc2lnbmVlX3Byb3ZpbmNlLG8uaW52X2NvbnNpZ25lZV9jaXR5LG8uaW52X2NvbnNpZ25lZV9kaXN0cmljdCxvLmludl9jb25zaWduZWVfYWRkcmVzcyxvLmludl9zdGF0dXMsby5pbnZfcGF5ZWVfdHlwZSxvLmludl9tb25leSBGUk9NIGBzZW5rZWAuYGVjc19vcmRlcl9pbmZvYCBBUyBvICBMRUZUIEpPSU4gYHNlbmtlYC5gZWNzX3VzZXJzYCBBUyB1IE9OIHUudXNlcl9pZD1vLnVzZXJfaWQgV0hFUkUgby5zdXBwbGllcl9pZCA9IDAgQU5EIG8uZXh0ZW5zaW9uX2NvZGUgIT0gJ3ZpcnR1YWxfZ29vZCcgT1JERVIgQlkgYWRkX3RpbWUgREVTQyAgTElNSVQgMCwxNQ==',
+  ),
+  'bdshare_firstime' => '1493892932988',
+  'ECS_ID' => '1fadc40fcf968094b4142af7c0e76d78222f30cc',
+  'ECSCP_ID' => '1aa215a53da488fba6c7597dde905b6add141bb3',
+  'act' => 'step_post',
+  'step' => 'shipping',
+  'order_id' => '82',
+  'step_act' => 'edit',
+  'shipping' => '4',
+  'finish' => ' 确定 ',
+)
